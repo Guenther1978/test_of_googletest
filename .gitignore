@@ -32,8 +32,8 @@
 *.app
 
 # Temporary files created by Emacs
-*.~
-*/*~
+*~
 
 # Content of build folders
 */build
+*/*/build

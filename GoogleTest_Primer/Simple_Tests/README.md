@@ -1,6 +1,6 @@
 # Cmake example
 
-This is the instruction how to use GoogleTest with a [Simple Test] (https://google.github.io/googletest/primer.html)
+This is the instruction how to use GoogleTest with a [Simple Test](https://google.github.io/googletest/primer.html)
 
 The file *factorial.cc* should be tested with factorial_test.cc,
 so the file *CMakeLists.txt* has to be creadet.
